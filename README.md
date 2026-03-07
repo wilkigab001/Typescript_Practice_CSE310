@@ -1,10 +1,20 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+My Name is **Gabriel Wilkins** I am a software engineer for a School district in *Utah*. I am taking this class so I can learn 3 additional coding languages to those that I already know. 
 
-{Provide a description of your software}
+I Currently work in 
+- Javascript
+- Coldfusion
+- MSSQL
+- Python 
+- HTML
+- CSS
 
-{Describe your purpose for creating this software.}
+I am looking forward to learning more about Python, C++, and Rust throughout this course.
+
+This software is a Python script that i wrote to be able to test that my computer had a local version of Python installed that works.
+
+The Purpose for this software was to check that I could get a local instance of Python running on my computer and that it could get up and running.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,12 +22,14 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I Used 
+1. VSCode
+2. Python
+3. A Macbook
+to help me develop this software.
 
-{Describe the programming language that you used}
+I used Python to display this hello world. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3](https://www.w3schools.com/)

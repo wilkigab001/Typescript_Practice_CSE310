@@ -2,10 +2,10 @@
 
 {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-There are three problems I solved to write this software. I first used the advent of code calendar for 2025 to find 3 problems that would help me learn typescript to an effective amount. Meaning that I would be able to write and understand the code and also be able to have solutions for complex issues in a new language. In this new language I am looking to learn how to write cleaner and more concise code.
+There are three problems I solved to write this software. I first used the advent of code calendar for 2025 to find 3 problems that would help me learn typescript to an effective amount. Meaning that I would be able to write and understand the codeand also be able to have solutions for complex issues in a new language. In this new language I am looking to learn how to write cleaner and more concise code.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/971f684f0dba45628998eec73749a7cb)
 
 # Development Environment
 

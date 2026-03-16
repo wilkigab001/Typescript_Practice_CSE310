@@ -1,22 +1,19 @@
 "use strict";
 /**
- * AoC 2025 Day 3: Lobby
- *
- * For each bank (line of digits), pick exactly 2 batteries (maintaining order)
- * to form the largest possible 2-digit number.
- *
- * Strategy: greedily pick the largest digit for the tens place,
- * then the largest digit for the units place from everything to its right.
- * Sum all banks' max joltages.
+ 
+  For each bank, pick exactly 2 batteries
+  to form the largest possible 2-digit number.
+ 
+  pick the largest digit for the tens place,
+  then the largest digit for the units place from everything to its right.
+  Sum all banks' max joltages.
  */
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs = require("fs");
 function maxJoltage(bank) {
     var best = 0;
-    // Try every digit as the tens place
     for (var i = 0; i < bank.length - 1; i++) {
         var tens = parseInt(bank[i]);
-        // Find the best units digit to the right
         var bestUnits = 0;
         for (var j = i + 1; j < bank.length; j++) {
             bestUnits = Math.max(bestUnits, parseInt(bank[j]));
@@ -36,7 +33,6 @@ function solve(input) {
     }
     return total;
 }
-// --- Example ---
 var example = "987654321111111\n811111111111119\n234234234234278\n818181911112111";
 console.log("=== Example ===");
 var exampleResult = solve(example);

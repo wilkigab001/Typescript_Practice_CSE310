@@ -1,10 +1,9 @@
 "use strict";
 /**
- * AoC 2025 Day 5: Cafeteria
- *
- * Parse fresh ID ranges and a list of ingredient IDs.
- * Count how many ingredient IDs fall within at least one fresh range.
- */
+ 
+  parse fresh ID ranges and a list of ingredient IDs.
+  count how many ingredient IDs fall within at least one fresh range.
+*/
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs = require("fs");
 function solve(input) {
@@ -35,14 +34,12 @@ function solve(input) {
     }
     return fresh;
 }
-// --- Example ---
 var example = "3-5\n10-14\n16-20\n12-18\n\n1\n5\n8\n11\n17\n32";
 console.log("=== Example ===");
 var exampleResult = solve(example);
 console.log("Fresh ingredients:", exampleResult);
 console.log("Expected:          3");
 console.log("Match:", exampleResult === 3);
-// --- Real input ---
 var inputFile = process.argv[2];
 if (inputFile) {
     console.log("\n=== Real Input ===");

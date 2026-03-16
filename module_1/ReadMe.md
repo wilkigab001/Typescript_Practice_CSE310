@@ -1,7 +1,5 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 There are three problems I solved to write this software. I first used the advent of code calendar for 2025 to find 3 problems that would help me learn typescript to an effective amount. Meaning that I would be able to write and understand the codeand also be able to have solutions for complex issues in a new language. In this new language I am looking to learn how to write cleaner and more concise code.
 
 
@@ -21,7 +19,6 @@ I did not use any programming libraries besides that of typescript and node.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - First, it would be nice to have more recursion in this.
 - I need to improve the console logs

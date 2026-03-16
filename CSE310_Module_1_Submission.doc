@@ -1,0 +1,31 @@
+﻿
+    <html xmlns:o='urn:schemas-microsoft-com:office:office'
+          xmlns:w='urn:schemas-microsoft-com:office:word'
+          xmlns='http://www.w3.org/TR/REC-html40'>
+    <head><meta charset='utf-8'><title>Module Submission</title></head>
+    <body style="font-family:Arial, sans-serif">
+      <h2>CSE 310 – Module Submission</h2>
+
+      <p><strong>Name:</strong> Gabriel Wilkins</p>
+      <p><strong>Module Number:</strong> 1</p>
+      <p><strong>Date:</strong> March 16, 2026</p>
+
+      <p><strong>GitHub Repo:</strong> <a href="https://github.com/wilkigab001/Typescript_Practice_CSE310/tree/main/module_1">https://github.com/wilkigab001/Typescript_Practice_CSE310/tree/main/module_1</a></p>
+      <p><strong>Video Link:</strong> <a href="https://www.loom.com/share/971f684f0dba45628998eec73749a7cb">https://www.loom.com/share/971f684f0dba45628998eec73749a7cb</a></p>
+
+      <h3>Selected Module: TypeScript</h3>
+      <h3>Module-Specific Requirements</h3>
+      <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse;"><tr><td style="background-color:#e2e3e5; font-weight:bold;">All of these are required</td><td style="background-color:#e2e3e5; font-weight:bold;">Completed?</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Display output to the terminal.</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Recursion</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Classes</td><td style="background-color:#f8d7da; font-weight:bold;">No</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Lists</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Asynchronous functions</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr></table>
+      <br>
+      <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse;"><tr><td style="background-color:#e2e3e5; font-weight:bold;">One of these is required</td><td style="background-color:#e2e3e5; font-weight:bold;">Completed?</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Demonstrate throwing and handling exceptions</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Use TS Lint</td><td style="background-color:#f8d7da; font-weight:bold;">No</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Incorporate Jest in your project</td><td style="background-color:#f8d7da; font-weight:bold;">No</td></tr></table>
+
+      <h3>General Submission Checklist</h3>
+      <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse;"><tr><td style="background-color:#e2e3e5; font-weight:bold;">Question</td><td style="background-color:#e2e3e5; font-weight:bold;">Your Response</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Did you write at least 100 lines of code in your software and include function level comments on all the functions you wrote?</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Did you use the correct README.md template from the Module Description document in Canvas?</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Did you completely populate the README.md template?</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Did you create the video that includes you in a window, and optionally reference it in the README.md file?</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Did you post a link to your video in the proper MS Teams Channel?</td><td style="background-color:#d4edda; font-weight:bold;">Yes</td></tr><tr><td style="background-color:transparent; font-weight:normal;">Did you publish the code with the README.md (in the top-level folder) into a public GitHub repository?</td><td style="background-color:#f8d7da; font-weight:bold;">No</td></tr></table>
+
+      <h3>Time & Reflection</h3>
+      <p><strong>How many hours did you spend on this module this Sprint? Include all time including planning, researching, implementation, troubleshooting, documentation, video production, and publishing.</strong><br>20 hours</p>
+      <p><strong>Record your time log for each day here</strong><br>Wednesday - 2<br>Thursday - 2<br>Friday - 3<br>Saturday - 3<br>Tuesday -3<br>Wednesday - 3<br>thursday - 2<br>friday.- 1<br>saturday - 1</p>
+      <p><strong>What learning strategies worked well in this module and what strategies (or lack of strategy) did not work well? How can you improve in the next module?</strong><br>The best strategies that worked for me was using ChatGPT as a rubber duck friend to help me talk through strategies. I think i can improve by trying my strategies first before talking to ChatGPT about them.</p>
+    </body>
+    </html>
+  
